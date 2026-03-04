@@ -1,0 +1,5 @@
+{
+  "name": "Nuvance",
+  "description": "A modern, interactive web-based presentation tool built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
